@@ -29,4 +29,9 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Presentacion\" />
+    <Folder Include="Persistencia\" />
+  </ItemGroup>
+
 </Project>
